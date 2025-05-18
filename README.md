@@ -24,4 +24,7 @@
   <img src="https://img.icons8.com/color/48/oracle-logo.png"/>
   <img src="https://img.icons8.com/color/48/react-native.png"/>
   <img src="https://img.icons8.com/color/48/python--v1.png"/>
+  <img src="https://www.devopsschool.com/blog/wp-content/uploads/2023/12/image-168.png"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-Jftq7EiLZDB75AVtZMxHob-mpwPgM9FQ&s"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp"/>
 </p>
